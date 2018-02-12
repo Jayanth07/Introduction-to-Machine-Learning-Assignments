@@ -1,1 +1,3 @@
 # Introduction-to-Machine-Learning-Assignments
+
+  These are the assignments of the well known Andrew Ng's "Introduction to Machine Learning" Course on Coursera...
